@@ -1,6 +1,6 @@
 package com.yidushishizijie;
 
-public class List {
+public class SparseArray {
     public static void main(String[] args) {
         //先创建一个原始的二位数组 11*11的大小
         // 0:表示没有棋子，1：表示 黑子 2：表示白子
@@ -72,6 +72,5 @@ public class List {
             }
             System.out.println();
         }
-        System.out.println("修改内容");
     }
 }
