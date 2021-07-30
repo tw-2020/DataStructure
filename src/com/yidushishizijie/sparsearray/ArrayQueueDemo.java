@@ -1,4 +1,4 @@
-package com.yidushishizijie;
+package com.yidushishizijie.sparsearray;
 
 import java.util.Scanner;
 

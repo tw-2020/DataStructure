@@ -1,4 +1,4 @@
-package com.yidushishizijie;
+package com.yidushishizijie.sparsearray;
 
 public class SparseArray {
     public static void main(String[] args) {
